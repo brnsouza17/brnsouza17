@@ -1,4 +1,21 @@
-## Hi there 👋
+## Tecnologias que utilizo
+
+<table>
+  <tr>
+    <th>📋 Linguagens</th>
+    <td>
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <th>🕓 Controle de versão</th>
+    <td>
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+    </td>
+  </tr>
+</table>
 
 <!--
 **brnsouza17/brnsouza17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
