@@ -24,6 +24,48 @@
   </tr>
 </table>
 
+## Projetos Frontend Mentor
+
+<table>
+  <tr>
+    <th>N°</th>
+    <th>Projeto</th>
+    <th>Preview</th>
+    <th>Tecnologias</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td><a href="https://github.com/brnsouza17/qr-code-component-main">qr code component</a></td>
+    <td><a href="https://brnsouza17.github.io/qr-code-component-main/">Visualizar</a></td>
+    <td>
+      <p align="center">
+        <!-- Cada icone tem 30 pixels-->
+        <img src="https://skillicons.dev/icons?i=html,css&perline=2" width="60px">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td><a href="https://github.com/brnsouza17/blog-preview-card-main">blog preview card</a></td>
+    <td><a href="https://brnsouza17.github.io/blog-preview-card-main/">Visualizar</a></td>
+    <td>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=html,css&perline=2" width="60px">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td><a href="https://github.com/brnsouza17/tailwind-interactive-rating-component">interactive rating component</a></td>
+    <td><a href="https://brnsouza17.github.io/tailwind-interactive-rating-component">Visualizar</a></td>
+    <td>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=tailwind,javascript,html&perline=3" width="90px">
+      </p>
+    </td>
+  </tr>
+</table>
+
 <!--
 **brnsouza17/brnsouza17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
