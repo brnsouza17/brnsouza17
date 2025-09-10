@@ -1,4 +1,51 @@
-## Tecnologias que utilizo
+<h1 align="center">👋Olá, sou Breno Souza</h1>
+<p>💻Desenvolvedor Frontend</p>
+
+---
+
+<h2>Principais projetos</h2>
+<table>
+  <tr>
+    <th>Nome</th>
+    <th>Deploy</th>
+    <th>Código</th>
+    <th>Tecnologias</th>
+  </tr>
+  <tr align="center">
+    <td>WeatherApp</td>
+    <td><a href="https://brnsouza17-weather-app.vercel.app/">Link da página</a></td>
+    <td><a href="https://github.com/brnsouza17/WeatherApp">Link do repositório</a></td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30px"/>
+    </td>
+  </tr>
+  <tr align="center">
+    <td>Lista de tarefas</td>
+    <td><a href="https://brnsouza17.github.io/to-do-list/">Link da página</a></td>
+    <td><a href="https://github.com/brnsouza17/to-do-list">Link do repositório</a></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30px"/>
+    </td>
+  </tr>
+  <tr align="center">
+    <td>Calculadora de IMC</td>
+    <td><a href="https://brnsouza17.github.io/calculadora-imc/">Link da página</a></td>
+    <td><a href="https://github.com/brnsouza17/calculadora-imc">Link do repositório</a></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2>Tecnologias que utilizo</h2>
 
 <table>
   <tr>
