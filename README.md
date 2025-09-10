@@ -1,6 +1,17 @@
 <h1 align="center">👋Olá, sou Breno Souza</h1>
 <p>💻Desenvolvedor Frontend</p>
-
+<h2>Contato</h2>
+<a href="https://www.linkedin.com/in/brenosouza17/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+</a>
+<a href="https://www.instagram.com/brnsouza17/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+</a>
+<a href="mailto:brenolife2021@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+</a>
+<br>
+  
 ---
 
 <h2>Principais projetos</h2>
